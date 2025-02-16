@@ -1004,7 +1004,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vkrJOgnbv_RV4Os8bQ6K" name="Halaman-8">
-    <mxGraphModel dx="12041" dy="6396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9651" dy="5089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1016,9 +1016,6 @@
         </mxCell>
         <mxCell id="Ofi4lHhoAwl1dzks2yjR-107" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ofi4lHhoAwl1dzks2yjR-103">
           <mxGeometry x="-250" y="-24.710000000000036" width="3423.16" height="1894.71" as="geometry" />
-        </mxCell>
-        <mxCell id="Ofi4lHhoAwl1dzks2yjR-105" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Ofi4lHhoAwl1dzks2yjR-103">
-          <mxGeometry x="4040" y="965.29" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ofi4lHhoAwl1dzks2yjR-52" value="Komunikasi" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=24;" vertex="1" parent="Ofi4lHhoAwl1dzks2yjR-103">
           <mxGeometry x="2230.720909090909" y="1514.2853623188405" width="232.7272727272727" height="115.94202898550724" as="geometry" />
