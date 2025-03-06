@@ -1013,7 +1013,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yJNML6VGxKd0aMl55hCF-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="yJNML6VGxKd0aMl55hCF-1" value="" style="group;strokeWidth=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-14540.001576820567" y="119.99730835820901" width="4275.312514829466" height="3152.2653782089537" as="geometry" />
         </mxCell>
         <mxCell id="Ofi4lHhoAwl1dzks2yjR-96" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;strokeWidth=4;fontSize=39;labelBorderColor=default;" parent="yJNML6VGxKd0aMl55hCF-1" source="Ofi4lHhoAwl1dzks2yjR-24" target="84l3zxgT7VPJnAAMtim0-36" edge="1">
